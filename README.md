@@ -1,6 +1,6 @@
 # Multi Language Survey App
 ![Multi-Language Survey](https://cosmicjs.imgix.net/46a74430-9d49-11e7-ac5c-c3efa87ef431-survey.jpeg)
-[View the demo here](http://multi-language-survey.cosmicapp.co)
+### [View the demo here](https://cosmicjs.com/apps/multi-language-survey)
 ## Why?
 1. The ability to create and manage surveys for multiple languages
 2. The flexibility of the SurveyJS API
