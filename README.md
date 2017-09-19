@@ -1,5 +1,6 @@
 # Multi Language Survey
-
+![Multi-Language Survey](https://cosmicjs.com/uploads/2173b870-9d61-11e7-a4a8-27766e36ccc0-Screen%20Shot%202017-09-19%20at%2012.35.45%20PM.png)
+[View the demo here](http://multi-language-survey.cosmicapp.co)
 ## Why?
 1. The ability to create and manage surveys for multiple languages
 2. The flexibility of the SurveyJS API
@@ -15,7 +16,7 @@ The back end server does a batch template replacement, replacing the values of t
 remotely on the CosmicJS server. The remote data is filtered and modified to be parsed by the front-end for displaying.
 
 ## Article
-For further reading, checkout the Cosmic JS [article]().
+For further reading, checkout the Cosmic JS [article](https://cosmicjs.com/articles/build-a-multi-language-survey-with-cosmic-js-surveyjs-j7rpqo7v).
 
 ## Getting Started
 ### Install
@@ -23,8 +24,8 @@ Make sure you have `npm` and `git` installed before starting to work on this pro
 `git clone` and install the required build dependencies with `npm install`.
 
 ```bash
-git clone {repository-link}
-cd {directory-name}
+git clone https://github.com/cosmicjs/multi-language-survey
+cd multi-language-survey
 npm install
 ```
 
@@ -40,8 +41,8 @@ You can easily manage the content in your static site on Cosmic JS.  Follow thes
 1. [Log in to Cosmic JS](https://cosmicjs.com).
 2. Create a bucket.
 3. Go to Your Bucket > Apps.
-4. Install the [demo-name]()
-5. Deploy your Static Site to the Cosmic App Server at Your Bucket > Web Hosting.
+4. Install the [Multi-Language Survey App](https://cosmicjs.com/apps/multi-language-survey)
+5. Deploy the code to the Cosmic App Server at Your Bucket > Web Hosting.
 
 The data is split into two segments: the `Questions` and the `Nodes`. `Questions` are simple elements to be rendered in 
 the back-end survey template (located at `survey/template.js`).
